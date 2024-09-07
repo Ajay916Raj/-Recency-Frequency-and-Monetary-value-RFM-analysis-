@@ -10,4 +10,5 @@ S5 : Analysis and naming the clusters based on visualized data using violin plot
 S6 : Analyzing the outlier data 
 S7 : Summary Stats using bar plots
 
-https://www.youtube.com/@trentdoesmath 
+credits : https://www.youtube.com/@trentdoesmath 
+link to files : https://archive.ics.uci.edu/dataset/502/online+retail+ii 
