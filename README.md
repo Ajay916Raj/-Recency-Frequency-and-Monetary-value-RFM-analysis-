@@ -1,4 +1,4 @@
-# -Recency-Frequency-and-Monetary-value-RFM-analysis
+# Customer Segmentaion RFM-analysis
 A guided project on KMeans Clustering from a real masked data set. 
 
 Steps taken : 
